@@ -18,7 +18,7 @@ Pré-requisitos
 2. npm
 
 3. Git
-# Instalação
+Instalação
 
 1. copie o repositório e instale as dependencias
 ``` bash
